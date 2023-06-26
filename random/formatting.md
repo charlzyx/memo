@@ -182,4 +182,4 @@ VSCode 的配置文件是支持全局/工作区的, 工作区的配置在 `.vsco
 - [Rome](https://rome.tools/)
 - [dprint](https://dprint.dev/)
 
-可以自行尝试
+可以自行尝试.
